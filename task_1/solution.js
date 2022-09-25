@@ -33,6 +33,9 @@ function addInCartCountChange(value) {
 
     // Задание №1.2. Увеличение количества в корзине
     let oldValue = value;
+let newValue;
+newValue = oldValue;
+newValue = + 1;
 
     // создайте переменную newValue
     // присвойте ей значение oldValue
