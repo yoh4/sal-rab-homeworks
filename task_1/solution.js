@@ -37,7 +37,7 @@ let newValue;
 newValue = oldValue;
 newValue = + 1;
 
-console.log (newValue);
+console.log (newValue + 1);
 
     // создайте переменную newValue
     // присвойте ей значение oldValue
